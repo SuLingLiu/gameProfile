@@ -44,4 +44,7 @@ npm run build
 ```
 http://localhost:4501/admin
 ```
+如果安装不上可以试装一下Python，并配置环境变量：C:\Users\liusuling\AppData\Local\Programs\Python\Python36-32
+还需要安装nodemon；
+如果还报错可以重启电脑用rimraf node_modules，再重新cnpm install。
 
